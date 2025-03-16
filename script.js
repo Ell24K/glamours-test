@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
             // Form msg
             let message = 
-    `❕*Glamourside Formulir*❕%0A%0A` +
+    `❕𝐆𝐥𝐚𝐦𝐨𝐮𝐫𝐬𝐢𝐝𝐞 𝐅𝐨𝐫𝐦𝐮𝐥𝐢𝐫❕%0A%0A` +
     `✠ *Nama:* ${nama}%0A` +
     `✠ *Umur:* ${umur} th%0A` +
     `✠ *Nick HH:* ${nick}%0A` +
